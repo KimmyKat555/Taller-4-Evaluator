@@ -81,5 +81,10 @@ namespace Evaluator.UI.Windows
             }
             txtDisplay.Focus();
         }
+
+        private void txtDisplay_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
