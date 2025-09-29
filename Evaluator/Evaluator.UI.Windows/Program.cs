@@ -9,4 +9,4 @@ namespace Evaluator.UI.Windows
             Application.Run(new Form1());
         }
     }
-}
+} 
